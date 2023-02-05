@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/fernandez-miguel/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" />
+  <img style="fill:green;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" />
 </a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=miguel-fdz&theme=dark&mode=weekly)](https://git.io/streak-stats)
@@ -16,6 +16,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguel-fdz&count_private=true&show_icons=true&theme=cobalt" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguel-fdz&layout=compact" />
-</a>
+</a> -->
