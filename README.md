@@ -1,10 +1,5 @@
 ### Hi there 👋
-
-<!--
-**miguel-fdz/miguel-fdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->![banner (1)](https://user-images.githubusercontent.com/50082706/216797564-7400b289-73bd-4b0a-ab14-ca21d4540b2a.png)
+![download](https://user-images.githubusercontent.com/50082706/216797693-aa8817da-2dec-41db-ac81-757da67cc4cd.png)
 
 - 🔭 I’m currently working on creating a React Native code along for my peers!
 - 🌱 I’m currently learning REST APIs, Java (Spring), PHP, Kotlin, Swift
