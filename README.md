@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguel-fdz&count_private=true&show_icons=true&theme=cobalt" />
 </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-fdz)](https://github.com/anuraghazra/github-readme-stats)
