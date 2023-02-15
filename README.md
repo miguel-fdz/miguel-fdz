@@ -6,7 +6,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/fernandez-miguel/
 - ⚡ Fun fact: I love to cook!
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=miguel-fdz&theme=dark&mode=weekly)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=miguel-fdz&theme=dark&mode=weekly)](https://git.io/streak-stats) -->
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguel-fdz&count_private=true&show_icons=true&theme=cobalt" />
